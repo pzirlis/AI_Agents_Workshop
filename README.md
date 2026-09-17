@@ -11,7 +11,7 @@ Columns include `condition`, `rt_mean_ms` (mean reaction time), `accuracy`, and 
 ```
 mkdir stroop
 cd stroop
-curl -O https://raw.githubusercontent.com/<you>/<repo>/main/stroop_clean.csv
+curl -O https://raw.githubusercontent.com/pzirlis/AI_Agents_Workshop/main/stroop_clean.csv
 copilot
 ```
 When asked, trust the folder.
